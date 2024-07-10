@@ -2,7 +2,7 @@
 
 namespace App\Models;
 
-use Altwaireb\CountriesStatesCities\Models\State as Model;
+use Altwaireb\World\Models\State as Model;
 
 class State extends Model
 {
